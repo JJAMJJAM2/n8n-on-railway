@@ -1,0 +1,11 @@
+
+{
+  "name": "n8n-railway-deploy",
+  "version": "1.0.0",
+  "description": "Minimal package to deploy n8n to Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n"
+  },
+  "license": "MIT"
+}
