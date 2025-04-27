@@ -1,4 +1,4 @@
-FROM n8nio/n8n
+FROM n8nio/n8n:0.236.3
 
 ENV N8N_BASIC_AUTH_ACTIVE=true
 
